@@ -1,0 +1,70 @@
+.app {
+  max-width: 400px;
+  margin: 0 auto;
+  font-size: 14px;
+  font-weight: normal;
+}
+button {
+  background-color: #337ab7;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  margin: 5px 0;
+  padding: 5px;
+  font-size: 14px;
+}
+.item_header {
+  display: flex;
+}
+.header_img {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+.header_info {
+  margin: 0 10px;
+}
+.header_title {
+  color: #337ab7;
+  font-weight: bold;
+}
+.header_subtitle {
+  color: grey;
+  font-size: 12px;
+}
+.header_desc {
+  margin-right: 5px;
+  font-weight: bold;
+}
+.header_created {
+  margin-left: 5px;
+}
+.item_text {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.post_item {
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 15px;
+}
+.btn_edit {
+  margin-right: 5px;
+}
+.btn_delete {
+  background-color: rgb(172, 4, 4);
+}
+.input_text {
+  width: 400px;
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 10px;
+}
+.btn_post {
+  margin-right: 5px;
+}
+.btn_close {
+  background-color: rgb(172, 4, 4);
+}
